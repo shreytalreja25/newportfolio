@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Shrey Talreja
+Shrey Talreja
+AI developer
 
 Show Contacts
 
 Email
-richard@example.com
+shreytalreja25@gmail.com
 
 Phone
-+1 (213) 352-2795
++61 (435) 546-962
 
 Birthday
-June 23, 1982
+Feb 25, 1999
 
 Location
-Sacramento, California, USA
+Sydney, New South Wales, Australia
 
 # navbar
 
